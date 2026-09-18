@@ -158,10 +158,10 @@ contact:
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thienlotus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=thienlotus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienlotus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thienlotus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
       </td>
     </tr>
   </table>
