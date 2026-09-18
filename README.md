@@ -46,6 +46,11 @@ core_competencies:
     - "Applied Computer Vision & AI Analytics for Agriculture (GreenTech)"
 
 philosophy: "Empowering intuitive web experiences with practical, impactful AI."
+
+contact:
+  email: "thienchip1310@gmail.com"
+  facebook: "https://www.facebook.com/vuthienisme"
+  github: "https://github.com/thienlotus"
 ```
 
 <br />
@@ -184,7 +189,7 @@ philosophy: "Empowering intuitive web experiences with practical, impactful AI."
   <img src="https://img.shields.io/badge/GITHUB-0B132B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.facebook.com/" target="_blank">
+<a href="https://www.facebook.com/vuthienisme" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
