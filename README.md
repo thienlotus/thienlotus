@@ -35,8 +35,8 @@ Focused on **Enterprise Backend Architecture (Java, C++)** and **Applied AI Syst
 > Clean architecture implementation dividing client SPA, Python/SQLite backend, and container deployment. Translates natural language queries into verified SQL and renders adaptive visualizations in real time.
 
 #### [GreenTech-AI](https://github.com/thienlotus/GreenTech-AI)
-> **AI-Powered Agricultural Pest Monitoring Platform**  
-> Computer vision platform leveraging YOLOv11 Medium and OpenCV to detect and track 5 pest species with a real-time 4-level alert engine and web dashboard.
+> **AI-Powered Agricultural Pest Monitoring & Early Warning Platform**  
+> Edge-compatible computer vision platform built with YOLOv11 Medium and OpenCV according to Clean Architecture standards. Features real-time trajectory tracking, class-specific dynamic thresholding, a 4-level risk warning engine, and multi-container Docker deployment.
 
 #### [crs-microservices](https://github.com/thienlotus/crs-microservices)
 > **Distributed Course Registration Platform with Spring Cloud Gateway & Database-per-Service**  
