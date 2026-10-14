@@ -35,8 +35,8 @@ Focused on **Enterprise Backend Architecture (Java, C++)** and **Applied AI Syst
 > Computer vision platform leveraging YOLOv11 Medium and OpenCV to detect and track 5 pest species with a real-time 4-level alert engine and web dashboard.
 
 #### [crs-microservices](https://github.com/thienlotus/crs-microservices)
-> **Scalable Distributed Microservices Architecture**  
-> Enterprise distributed architecture implemented in Java Spring Boot, focusing on inter-service resilience, fault tolerance, and event-driven data flow.
+> **Distributed Course Registration Platform with Spring Cloud Gateway & Database-per-Service**  
+> Enterprise distributed architecture implemented with Java 17 and Spring Boot 3. Employs Spring Cloud Gateway as a centralized edge reverse-proxy, Database-per-Service isolation across 3 isolated MySQL databases, stateless JWT/API Key authorization, and Docker Compose multi-container orchestration.
 
 #### [GymManagementSystem](https://github.com/thienlotus/GymManagementSystem)
 > **Comprehensive Enterprise Management Application**  
