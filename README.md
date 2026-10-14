@@ -26,6 +26,10 @@ Focused on **Enterprise Backend Architecture (Java, C++)** and **Applied AI Syst
 
 ### Featured Systems & Architectures
 
+#### [enterprise-order-system](https://github.com/thienlotus/enterprise-order-system)
+> **High-Throughput Concurrent Order Processing & Real-time Inventory Reservation Engine**  
+> Enterprise transaction engine engineered with Java 17, Spring Boot 3, and Clean Architecture (DDD). Employs JPA Optimistic Locking (`@Version`), Redis caching, Spring Data `@EntityGraph` (eliminating N+1 queries), RFC 7807 Problem Details, and multi-container Docker Compose.
+
 #### [business-analytics-platform](https://github.com/thienlotus/business-analytics-platform)
 > **Enterprise Conversational Business Intelligence & Text-to-SQL Analytics Platform**  
 > Clean architecture implementation dividing client SPA, Python/SQLite backend, and container deployment. Translates natural language queries into verified SQL and renders adaptive visualizations in real time.
