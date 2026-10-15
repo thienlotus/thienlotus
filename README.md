@@ -34,6 +34,10 @@ Focused on **Enterprise Backend Architecture (Java, C++)** and **Applied AI Syst
 > **Enterprise Conversational Business Intelligence & Text-to-SQL Analytics Platform**  
 > Clean architecture implementation dividing client SPA, Python/SQLite backend, and container deployment. Translates natural language queries into verified SQL and renders adaptive visualizations in real time.
 
+#### [SmartHome_HandGesture](https://github.com/thienlotus/SmartHome_HandGesture)
+> **Edge AI Smart Home Automation with Hand Gesture & Biometric Face Verification**  
+> Offline edge computer vision and embedded actuation platform combining Google MediaPipe Hand Gesture Recognition and OpenCV LBPH Biometric Face Verification with Arduino Uno R3 hardware actuation via an asynchronous UART 9600-baud protocol.
+
 #### [GreenTech-AI](https://github.com/thienlotus/GreenTech-AI)
 > **AI-Powered Agricultural Pest Monitoring & Early Warning Platform**  
 > Edge-compatible computer vision platform built with YOLOv11 Medium and OpenCV according to Clean Architecture standards. Features real-time trajectory tracking, class-specific dynamic thresholding, a 4-level risk warning engine, and multi-container Docker deployment.
